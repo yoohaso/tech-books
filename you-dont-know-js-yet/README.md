@@ -8,3 +8,7 @@
 - 1.3 명세서
 - [1.4 JS의 다양한 얼굴](/you-dont-know-js-yet/part1-getting-started/chapter-01-javascript.md#14-js의-다양한-얼굴)
 - [1.5 하위 호환성과 상위 호환성](/you-dont-know-js-yet/part1-getting-started/chapter-01-javascript.md#15-하위-호환성과-상위-호환성)
+
+### CHAPTER 2 자바스크립트 조망하기
+- 2.1 파일은 프로그램입니다
+- [2.2 값](/you-dont-know-js-yet/part1-getting-started/chapter-02-surveying-js.md#22-값)
