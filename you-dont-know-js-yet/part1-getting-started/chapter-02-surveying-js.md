@@ -27,3 +27,13 @@
     - mdn 정의
       - null은 의도적으로 값이 존재하지않음을 의미한다.
       - undefined는 값을 할당하지 않음을 나타낸다.
+- 객체 타입
+  - 배열, 객체, 함수가 있다.
+- 값의 타입
+  - typeof 연산자로 원시 / 객체 타입을 구분한다.
+    - 다만, typeof null은 object로 반환된다.
+      - 저자는 '버그입니다.' 라고 설명하고 넘어간다.
+      - JavaScript 창시자 브랜든 아이크도 인정하는 버그라고 한다.
+      - 자세한 이야기는 아래 개발자분이 연구한 글 참고
+        - https://witch.work/ko/posts/javascript-why-typeof-null-is-object
+    - 함수는 function으로 반환하면서 배열은 object를 반환한다.
